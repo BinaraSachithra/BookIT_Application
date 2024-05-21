@@ -1,6 +1,6 @@
-# bookit
+# Bookit
 
-A new Flutter project.
+This is appointment management app developed using Flutter.
 
 ## Getting Started
 
