@@ -1,13 +1,12 @@
-# Bookit
+# BookIT
 
-This is appointment management app developed using Flutter. This app mainly focused for the channel center. 
-# User can,
-# ✺ Register and Login
-# ✺ View Doctors details
-# ✺ Book appointment for the Doctors.
-# ✺ View ongoing appointments
-# ✺ Cancel and reschedule the appointments.
-
+This is appointment management app developed using Flutter. This app mainly focused for the channel center. Still only Developed Front-End.
+<h2>User can,</h2>
+   <p>✺ Register and Login</p>
+   <p>✺ View Doctors details</p>
+   <p>✺ Book appointment for the Doctors.</p>
+   <p>✺ View ongoing appointments.</p>
+   <p>✺ Cancel and reschedule the appointments.</p>
 
 ![Screenshot 2024-03-12 at 10 58 38 AM](https://github.com/user-attachments/assets/f33dc482-87e9-4c85-a488-c8711c218fc9)
 ![Screenshot 2024-03-12 at 10 58 54 AM](https://github.com/user-attachments/assets/816a4185-6711-4045-b6da-0f52729b7396)
